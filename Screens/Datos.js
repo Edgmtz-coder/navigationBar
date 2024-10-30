@@ -23,6 +23,10 @@ export default function App() {
 
         <Text style={styles.text}> {"\n"} CODIGOS DE ACCESO </Text>
         <TextInput style={styles.txt} placeholder='Escribe aqui'></TextInput>
+        
+        <Text style={styles.text}> {"\n"} PERSONAL CON ACCESO </Text>
+        <TextInput style={styles.txt} placeholder='Escribe aqui'></TextInput>
+
 
         <Text style={styles.text}> {"\n"} HUELLAS REGISTRADAS </Text>
         <Text style={styles.text}> {"\n"} {"\n"} {"\n"}  </Text>
