@@ -33,7 +33,10 @@ export default function Login({navigation},props) {
             <Image source={require('../Img/SmartLogo.png')}
               style={styles.headerImg}
               alt='Logo' />
+
             <Text style={styles.title}>Registrarse en Smartlock</Text>
+            
+            <Text>hola soy yael</Text>
             <Text style={styles.subtitle}>Tu seguridad al alcance de tu bolsillo</Text>
           </View>
           <View style={styles.form}>
