@@ -10,21 +10,21 @@ export default function App() {
 
       <ScrollView>
 
-        <Text style={styles.textt}> {"\n"} {"\n"} {"\n"}  DATOS DE TU CERRADURA INTELIGENTE </Text>
+        <Text style={styles.textt}> {"\n"} {"\n"} {"\n"}  DATOS DE  CERRADURA INTELIGENTE Yaeliiii </Text>
 
-        <Text style={styles.text}>{"\n"} {"\n"} {"\n"} NOMBRE DEL PROPIETARIO </Text>
-        <TextInput style={styles.txt} placeholder='Escribe aqui' ></TextInput>
+        <Text style={styles.text}>{"\n"} {"\n"} {"\n"} NOMBRE DEL PROPIETARIO O DUEÑO </Text>
+        <TextInput style={styles.txt} placeholder='Escribe aqui o rellena' ></TextInput>
 
         <Text style={styles.text}> {"\n"}  DIRECCION </Text>
-        <TextInput style={styles.txt} placeholder='Escribe aqui'></TextInput>
+        <TextInput style={styles.txt} placeholder='Escribe aqui o rellena'></TextInput>
 
         <Text style={styles.text}> {"\n"} TIPOS DE ACCESO </Text>
-        <TextInput style={styles.txt} placeholder='Escribe aqui'></TextInput>
+        <TextInput style={styles.txt} placeholder='Escribe aqui O RELLENA '></TextInput>
 
         <Text style={styles.text}> {"\n"} CODIGOS DE ACCESO </Text>
         <TextInput style={styles.txt} placeholder='Escribe aqui'></TextInput>
 
-        <Text style={styles.text}> {"\n"} HUELLAS REGISTRADAS </Text>
+        <Text style={styles.text}> {"\n"} HUELLAS REGISTRADAS Y ACTUALIZADAS </Text>
         <Text style={styles.text}> {"\n"} {"\n"} {"\n"}  </Text>
 
 
@@ -44,14 +44,14 @@ const styles = StyleSheet.create({
 
   foto:{
     position: 'absolute',
-    height: '100%',
+    height: '10%',
     width: "100%",
     resizeMode: 'cover',
     
   },
 
   textt:{
-    fontSize: 24,
+    fontSize: 37,
     textAlign: 'center',
     color: 'white',
     fontWeight: 'bold', 
