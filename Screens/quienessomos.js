@@ -22,6 +22,8 @@ const Login = ({ navigation }) => {
               <Text> y fabricación del cerrojo, ya que se </Text>
               <Text>distingue por su  tecnología de vanguardia,</Text>
               <Text>garantizando la seguridad de nuestros clientes.</Text>
+              <Text>Aqui Estuve Yo Estudiante de 10mo Marvin Holaaaa</Text>
+              <Text>La regue aqui vamos denuevo</Text>
             </Text>
             <Text></Text>         
             <Image
